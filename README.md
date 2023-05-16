@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app
 
-Dep Link {https://tech-star-9smu.vercel.app/}
+Dep Link https://tech-star-9smu.vercel.app
 
 ## Available Scripts
 
